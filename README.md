@@ -40,6 +40,11 @@ Ensure you have the following installed on your system:
     cd gif-to-ascii
     ```
 
+3. **Install dependencies:**
+    ```bash
+    pip3 install -r requirements.txt
+    ```
+
 ## Usage
  **Run the Client:**
 ```bash
