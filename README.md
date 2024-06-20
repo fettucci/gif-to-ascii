@@ -15,7 +15,7 @@ Convert GIF animations into ASCII art frames directly in your terminal using Pyt
 
 This Python application was inspired by [parrot.live](https://github.com/hugomd/parrot.live). It converts GIF animations into ASCII art frames, leveraging the capabilities of PIL (Pillow) for image processing and websockets for real-time transmission. Each frame of the GIF is transformed into ASCII characters, providing a unique visual experience within your terminal.
 
-This project is also deployed on Heroku, serving as an educational resource for me to learn how to deploy and manage WebSocket-based applications in a cloud environment. By exploring the deployment process and WebSocket integration, you can gain practical experience in scaling and maintaining real-time applications. The deployed files are included in this repository for educational purposes. However, only file required to use this tool is the `client.py`
+This project is also deployed on Heroku, serving as an educational resource for me to learn how to deploy and manage WebSocket-based applications in a cloud environment. By exploring the deployment process and WebSocket integration, you can gain practical experience in scaling and maintaining real-time applications. The deployed files are included in this repository for educational purposes. However, the only file required to use this tool is the `client.py`
 file.
 
 ## Installation
